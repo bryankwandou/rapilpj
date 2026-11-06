@@ -2,7 +2,9 @@
 
 **Team Name:** Tide Ledger  
 **Selected Case:** Case 1: Smarter Campus and Learning (STACK 2026 by GDGoC ITB)  
-**Members:** Vincentius Bryan Kwandou (leader), Valentino Filemon Limer, Putra Purwanugraha Tengbunan, Marvel Harjosetio
+**Members:** Vincentius Bryan Kwandou (leader), Valentino Filemon Limer, Putra Purwanugraha Tengbunan, Marvel Harjosetio  
+**Live Deployment:** https://rapilpj.vercel.app  
+**Repository:** https://github.com/bryankwandou/rapilpj
 
 ## Overview
 
